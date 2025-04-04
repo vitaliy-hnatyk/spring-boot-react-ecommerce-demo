@@ -4,7 +4,6 @@ eCommerce application based on the microservices architecture built using Spring
 **DEMO**
 - Deployed to Heroku Cloud:
 
-  https://shoppers-ecom-app.herokuapp.com
 
   **Note:** It is running on a free dyno, so the services go to sleep if not in use.
        For the first time, it may take some time to respond.
@@ -49,8 +48,6 @@ eCommerce application based on the microservices architecture built using Spring
 - **Search Suggestion Service:** Provide default search suggestions and provides suggestions based on a prefix using Hashmap. The service creates the Hashmap based on available data from the database with various combinations and populates the map.
 
 **Steps for executing the application using docker-compose:**
-
-Installation Video: https://youtu.be/nPKYbdKPd0E
 
 1. Clone/Download the repository.
 
